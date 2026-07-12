@@ -5,7 +5,7 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="A simple Arch Linux maintenance utility for Btrfs systems"
 arch=('any')
-url="https://github.com/YOUR_USERNAME/maintain-btrfs"
+url="https://github.com/noah8282/maintain-btrfs"
 license=('MIT')
 
 depends=('bash' 'pacman')
