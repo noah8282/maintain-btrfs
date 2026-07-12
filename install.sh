@@ -5,7 +5,7 @@ set -euo pipefail
 REPO="noah8282/maintain-btrfs"
 BRANCH="main"
 
-SCRIPT_NAME="maintain-btrfs"
+SCRIPT_NAME="maintain-btrfs.sh"
 INSTALL_PATH="/usr/local/bin/$SCRIPT_NAME"
 SCRIPT_URL="https://raw.githubusercontent.com/$REPO/$BRANCH/$SCRIPT_NAME"
 
