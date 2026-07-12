@@ -60,6 +60,10 @@ The script performs the following maintenance tasks:
 7. Runs a light Btrfs balance
 8. Starts a Btrfs scrub
 
+##Uninstall
+```bash
+sudo rm -f /usr/local/bin/maintain-btrfs
+```
 ## Disclaimer
 
 This script modifies your system and requires `sudo` privileges. Review the source code before running it and use it at your own risk.
