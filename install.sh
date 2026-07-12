@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-REPO="YOUR_USERNAME/maintain-btrfs"
+REPO="noah8282/maintain-btrfs"
 BRANCH="main"
 
 SCRIPT_NAME="maintain-btrfs"
