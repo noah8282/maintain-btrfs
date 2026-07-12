@@ -27,7 +27,7 @@ Optional tools:
 ## Quick Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/maintain-btrfs/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/noah8282/maintain-btrfs/main/install.sh | bash
 ```
 
 ## Usage
@@ -41,7 +41,7 @@ maintain-btrfs
 ## Manual Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/maintain-btrfs.git
+git clone https://github.com/noah8282/maintain-btrfs.git
 cd maintain-btrfs
 chmod +x install.sh
 ./install.sh
