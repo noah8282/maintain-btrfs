@@ -60,7 +60,7 @@ The script performs the following maintenance tasks:
 7. Runs a light Btrfs balance
 8. Starts a Btrfs scrub
 
-##Uninstall
+## Uninstall
 ```bash
 sudo rm -f /usr/local/bin/maintain-btrfs
 ```
